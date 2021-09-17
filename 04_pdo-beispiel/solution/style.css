@@ -1,0 +1,15 @@
+body {
+    font-size: 80%;
+    font-family: sans-serif;
+}
+label, input[type=submit]{
+    display: block;
+    cursor: pointer;
+}
+table tr:nth-of-type(odd) {
+    background-color: #c1dce8;
+}
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
