@@ -16,10 +16,7 @@ Aborting
 Dieses Problem lösen Sie wie folgt: Add changes to git using this command: git add . Commit changes using this command: git commit -m "some message"
 
 ## Installation
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-[list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
