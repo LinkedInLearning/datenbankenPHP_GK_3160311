@@ -12,6 +12,7 @@ Wenn Sie von einem Branch nach Änderungen zum nächsten Branch wechseln, erhalt
 error: Your local changes to the following files would be overwritten by checkout:        [files]
 Please commit your changes or stash them before you switch branches.
 Aborting
+
 Dieses Problem lösen Sie wie folgt: Add changes to git using this command: git add . Commit changes using this command: git commit -m "some message"
 
 ## Installation
