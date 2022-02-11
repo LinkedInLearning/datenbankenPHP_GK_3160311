@@ -2,9 +2,9 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Datenbankentwicklung mit PHP`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-!Datenbankentwicklung mit PHP[lil-thumbnail-url] 
+![Datenbankentwicklung mit PHP][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+PHP und MySQL bzw. MariaDB gelten als das Dreamteam im Web und viele gängige Content Management Systeme wie Joomla! oder WordPress setzen auf diese Kombination. Aber wie arbeitet man von PHP aus mit Datenbanken? In diesem Video-Training erfahren Sie alles, was Sie brauchen, um Datenbanken anzusprechen, Daten einzutragen, zu verändern, zu löschen und natürlich auch abzufragen. Ein wichtiges Thema sind dabei auch die Prepared Statements, die es erlauben, die Datenbanklogik von den eigentlichen Daten zu trennen. Anhand von Code-Challenges am Ende jeden Kapitels können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der von Ihrer Trainerin angebotenen vergleichen.
 
 ## Installation
 
