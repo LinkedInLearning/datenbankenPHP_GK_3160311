@@ -19,4 +19,4 @@ Sehen Sie sich andere Kurse der Autorin auf [LinkedIn Learning](https://www.link
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/datenbankentwicklung-mit-php/erfahren-sie-alles-was-sie-brauchen-um-mit-php-datenbanken-anzusprechen-daten-einzutragen-zu-verandern-zu-losc
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHMHlgcB493SA/learning-public-crop_675_1200/0/1644312925233?e=1644663600&v=beta&t=vNAxYtdajsAb5nYeOhxHKgAIFBhllWLicG9CFZsTHgo
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3160311/3160311-1644312882101-16x9.jpg
